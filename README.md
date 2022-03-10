@@ -16,6 +16,8 @@ Sujet et données dans group1/:
 * glove.6B.50d.txt.gz
 * train_drama-comedy_group2.txt
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-tal-students/blob/main/notebooks/group2/TP3_GROUP2_master2TAL_2122.ipynb)
+
 # List of examples (label, text)
 train = data_iter[:17050]
 
