@@ -18,7 +18,9 @@ Sujet et données dans group1/:
 
 # List of examples (label, text)
 train = data_iter[:17050]
+
 dev = data_iter[17050:19050] 
+
 test =  data_iter[19050:] 
 
 Additionellement, corrigé du TP2: TP2_master2TAL_2122_WSOL.ipynb
